@@ -1,0 +1,14 @@
+{
+  "name": "fake-git-commits",
+  "version": "1.0.0",
+  "description": "Generate fake commits for GitHub chart",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "simple-git": "^3.20.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
